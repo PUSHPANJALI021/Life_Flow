@@ -1,0 +1,6 @@
+{
+  "name": "LifeFlow",
+  "description": "Real-time, expiry-aware blood allocation and routing platform for India's medical infrastructure.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
