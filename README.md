@@ -77,7 +77,9 @@ npm run dev
 
 
 
+
  🌐 Deployment
 - Frontend + API: **Vercel**
 - AI Runtime: **Google Cloud Run**
 - Database: **MongoDB Atlas**
+
